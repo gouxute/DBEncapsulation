@@ -1,6 +1,6 @@
 # DBEncapsulation
 
-DBEncapsulation ecapusulates the operation with database.
+J2EE backend framework  DBEncapsulation ecapusulates the operation with database.
 
 DB's function: 
 
