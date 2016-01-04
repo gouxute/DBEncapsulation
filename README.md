@@ -1,8 +1,8 @@
 # DBEncapsulation
 
-J2EE backend framework  DBEncapsulation ecapusulates the operation with database.
+J2EE backend framework  DBEncapsulation encapsulates the operation with database.
 
-DB's function: 
+##Function: 
 
 1. Set up database in cache;
 
@@ -22,7 +22,8 @@ DB's function:
 
 9. Listeners;
 
-Note that each class has a main function for coders to test the specific function;
+##Note
+Each class has a main function for coders to test the specific function;
 
 In oder to run, another mine repository KyroEncapsulation will be needed;
 
