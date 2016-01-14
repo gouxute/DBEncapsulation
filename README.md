@@ -1,7 +1,7 @@
 # DBEncapsulation
 
 DBEncapsulation ecapusulates the operation with database.
-
+Code's external package dependency is maintained by Maven , please refer to pom.xml<br>
 DB's function: 
 
 1. Set up database in cache;
